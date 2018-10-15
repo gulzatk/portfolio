@@ -4,29 +4,30 @@ p {
   font-style: normal;
   font-weight: bolder;
   font-size: 25px;
-  text-align: center;
-  color: red;
-}
-.jumbotron {
-  background-image: url('../img/img.jpg');
-  background-attachment: local;
-  background-size: contain;
+  text-align: left;
+  color: green;
 }
 
-
-body{
+body {
   background-color: lightblue;
 }
-h1 {
-  font-family: sans-serif;
-  font-style: italic;
-  text-align: center;
-  color: blue;
 
-}
-a {
+.headerlinks {
   color: blue;
   font-family: sans-serif;
   text-align: center;
   font-size: 25px
+}
+
+.circleimg {
+  float: left;
+  border-radius: 50%;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-style: italic;
+  text-align: center;
+  color: orange;
+  font-weight: bold;
 }

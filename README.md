@@ -1,13 +1,37 @@
-#Portfolio
+# Portfolio
 
-###By Gulzat Karimova
-##Description
+#### HTML Webpage Independent Project for Epicodus, 10/12/2018
 
-This is a portfolio webpage
+### *By Gulzat Karimova*
 
-Contacts
-gulzat.karimova@gmail.com
-425-553-8776
+## Description
 
-License
-Copyright (c) 2018 Gulzat Karimova
+This is a Portfolio Webpage
+
+## Setup  Requarements
+
+Clone the repository.
+
+Open a simple HTTPserver in the top of the cloned directory. For a mac, run the following command in your terminal:
+
+python-m SimpleHTTPServer
+
+Then open your web browser of choice to localhost:8000
+
+## Technologies Used
+
+HTML
+CSS
+Bootstrap
+
+## Contact details
+
+email: **gulzat.karimova@gmail.com**
+
+## Webpage Link
+
+
+
+##License
+Copyright (c) 2018 **Gulzat Karimova**
+This software is licensed under the **MIT license.**
